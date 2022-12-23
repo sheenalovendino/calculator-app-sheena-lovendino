@@ -1,3 +1,3 @@
 # calculator-app-sheena-lovendino
 
-### Sheena Lovendino, BSIT 3-2
+#### Sheena Lovendino, BSIT 3-2
